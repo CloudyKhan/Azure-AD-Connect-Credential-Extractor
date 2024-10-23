@@ -14,7 +14,7 @@ Highly recommend checking out the original work to understand the initial concep
 
 ## Prerequisites
 
-- **PowerShell** environment (Run with administrative privileges).
+- **PowerShell** environment (Run with administrative privileges or Azure Admins).
 - Access to a machine running **Microsoft Azure AD Connect**.
 - **mcrypt.dll** must be present on the system in one of the following paths:
   - `C:\Program Files\Microsoft Azure AD Sync\Bin\mcrypt.dll`
